@@ -2,7 +2,7 @@
 
 /**
  * main - display "programming is like a puzzle"
- *Return: Alway 0 (success)
+ *Return: Always 0 (success)
  */
 int main(void)
 {
