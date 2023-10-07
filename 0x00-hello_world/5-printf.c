@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - Displays 'with proper grammar' with new line 
  *
- * Return: Always 0 (success)
+ * Return: 0 and exit the program
  */
 int main (void)
 {
-	printf('with profer grammer, but the outcome is a piece of art,\n');
-	return (0)
+	printf('with profer grammar, but the outcome is a piece of art,\n');
+	return (0);
 }
