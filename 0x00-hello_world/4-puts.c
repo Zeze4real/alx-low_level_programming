@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -display "programming is like a puzzle"
+ * main - display "programming is like a puzzle"
  *Return: 0 and exit the program
  */
 int main(void)
