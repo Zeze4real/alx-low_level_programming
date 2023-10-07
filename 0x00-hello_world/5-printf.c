@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - displays with proper grammar with new line 
+ * main -displays with proper grammar with new line 
  *
  * Return: 0 and exit the program
  */
