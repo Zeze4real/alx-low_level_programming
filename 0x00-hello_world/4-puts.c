@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - display "programming is like a puzzle"
- *Return: Always 0 (success)
+ * main - A program that prints a line with puts funtion
+ *Return: 0(success)
  */
 int main(void)
 {
